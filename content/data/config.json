@@ -7,7 +7,7 @@
         "nav_links": [
             {
                 "label": "lorem-ipsum",
-                "url": "#Services",
+                "url": "Services",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
